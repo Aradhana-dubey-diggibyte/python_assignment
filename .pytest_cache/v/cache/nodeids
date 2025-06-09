@@ -1,0 +1,19 @@
+[
+  "testing/calendar_module/test_calendar_module.py::test_leap_year",
+  "testing/calendar_module/test_calendar_module.py::test_new_year",
+  "testing/calendar_module/test_calendar_module.py::test_random_date",
+  "testing/calendar_module/test_calendar_module.py::test_sample_input",
+  "testing/finding_the_percentage/test_finding_the_percentage.py::test_case_1",
+  "testing/finding_the_percentage/test_finding_the_percentage.py::test_case_2",
+  "testing/finding_the_percentage/test_finding_the_percentage.py::test_missing_student",
+  "testing/floor_ceil/test_floor_ceil.py::test_apply_floor_ceil_rint",
+  "testing/merge_the_tools/test_merge_the_tools.py::test_merge_case1",
+  "testing/merge_the_tools/test_merge_the_tools.py::test_merge_case2",
+  "testing/merge_the_tools/test_merge_the_tools.py::test_merge_case3",
+  "testing/merge_the_tools/test_merge_the_tools.py::test_merge_case4",
+  "testing/mutations/test_mutations.py::test_mutate_string",
+  "testing/second_maximum_in_list/test_second_maximum_in_list.py::test_runner_up_large_input",
+  "testing/second_maximum_in_list/test_second_maximum_in_list.py::test_runner_up_normal_case",
+  "testing/second_maximum_in_list/test_second_maximum_in_list.py::test_runner_up_single_value",
+  "testing/second_maximum_in_list/test_second_maximum_in_list.py::test_runner_up_with_negatives"
+]
